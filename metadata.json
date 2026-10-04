@@ -1,0 +1,6 @@
+{
+  "name": "Nemamwa RDC - Digital Waiting List & Stand Allocation System",
+  "description": "Official Digital Waiting List & Residential Stands Allocation Management System for Nemamwa Rural District Council (Masvingo RDC), replacing manual lodger's cards with automated queues, payment tracking, and stand allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
